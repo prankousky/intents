@@ -5,3 +5,5 @@ intents:
       - sentences:
           - "schalte <name> (ab | aus)"
           - "stoppe <name>"
+          - "<name> (ab | aus)schalten"
+          - "<name> stoppen"
